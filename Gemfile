@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-<<<<<<< HEAD
 gem 'rails', '4.2.7.1'
 gem 'sqlite3'
 gem 'rails'
